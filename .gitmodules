@@ -1,0 +1,6 @@
+[submodule "mariadb"]
+	path = mariadb
+	url = https://github.com/linuxserver/docker-mariadb.git
+[submodule "wordpress"]
+	path = wordpress
+	url = https://github.com/docker-library/wordpress.git
